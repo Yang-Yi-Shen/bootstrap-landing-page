@@ -1,0 +1,43 @@
+body {
+    font-family: roboto;
+}
+
+.card {
+    margin: 20px auto 20px auto;
+}
+
+.btn {
+    position: relative;
+    left: 35%;
+}
+
+h1 {
+    font-weight: 500;
+}
+
+#header {
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    background-color: #cff4d2;
+    z-index: 100;
+}
+
+#index {
+    position: relative;
+    top: 150px;
+    margin-bottom: 200px;
+}
+
+#cards {
+    position: relative;
+    left: 13%;
+    float: none;
+}
+
+#company-name {
+    font-size: 1.5em;
+    position: relative;
+    left: 4%;
+    top: 30%;
+}
